@@ -2,6 +2,8 @@
 
 A browser-based version of the classic game.
 
+Deployed Link: https://v-lai.github.io/boggle-react/
+
 ## Key Features
 * Randomized Dice - shuffled both on the grid and individual die faces
 * Selection of die must be adjacent (diagonals included); die can be deselected by clicking
